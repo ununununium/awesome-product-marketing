@@ -111,7 +111,9 @@ Knowing the battlefield before you write a single word.
 - [Crayon](https://www.crayon.co) - competitive intelligence tracking
 - [Kompyte](https://www.kompyte.com) - competitor tracking and battlecards
 - [Visualping](https://visualping.io) - free, monitors any page for changes, good for pricing intel
-
+- [AlphaSense](https://dashboard.industry-lens.com/battlecards/bc-210) - IndustryLens
+  Sourced B2B SaaS company profiles covering pricing, recent moves, reviews and hiring. Use them as a starting point for competitive research and sales-call preparation.
+  
 ## ICP & Segmentation
 
 Build ICP from observed buying behavior, not from brainstormed segmentation.
